@@ -5,3 +5,4 @@ Some Machine Learning models practised for my Bootcamp
 1. Reinforcement Learning
 2. Sentiment Analysis
 3. PCA analysis
+4. RNN networks
